@@ -1,0 +1,29 @@
+.bg-yellow{
+    background-color: #EFBB57;
+}
+
+#home{
+    background-color: #EFBB57;
+    color: #261c15;
+    padding: 30px 0;
+}
+
+.colorBotton{
+    color: black;
+    background-color: black;
+}
+
+.caixa {
+    padding: 50px 0;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #f0eff4;
+}
+
+footer p a {
+    margin: 5px 15px;
+    color: #261c15;
+}
+
+#footer{
+    background-color: #EFBB57;
+}
